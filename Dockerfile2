@@ -1,0 +1,8 @@
+FROM ghcr.io/tim2zg/kali
+
+RUN apt-get update
+RUN apt upgrade -y
+
+ENV DEBIAN_FRONTEND=noninteractive
+
+RUN apt install -y kali-linux-default
