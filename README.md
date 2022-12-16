@@ -1,4 +1,4 @@
-# klai-in-a-docker
+# kali-in-a-docker
 A kali image with vnc and novnc.
 Acces your kali docker container in a browser.
 - The full one is **11.5Gb** 
